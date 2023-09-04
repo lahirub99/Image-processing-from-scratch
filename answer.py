@@ -173,7 +173,7 @@ else:
 # plot_image(image_upscaled, 'Upscaled Image')
 
 save_image('upscaled.jpg', image_upscaled)
-#endregion
+#endregion 
 
 
 ''' Image plotting : (Used for testing purposes only) '''
