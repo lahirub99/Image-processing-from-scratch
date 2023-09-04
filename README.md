@@ -19,7 +19,7 @@ The image processing program accomplishes the following tasks:
 
 ## Expected Results
 
-![Outputs](Figure_1.png)
+![Outputs](Output_plot.png)
 
 
 ## Article for further details
