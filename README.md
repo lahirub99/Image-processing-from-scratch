@@ -16,8 +16,16 @@ The image processing program accomplishes the following tasks:
 
 5. **Compute Image Difference:** The program calculates the sum of the average squared differences between pixels in the original gray-scale image (from step 2) and the re-sampled image (from step 4).
 
+
 ## Expected Results
+
 ![Outputs](Figure_1.png)
+
+
+## Article for further details
+
+[A Guide to Image Processing from Scratch](https://medium.com/@lahiru.19/a-guide-to-image-processing-from-scratch-7a6a413fb682)
+
 
 ## Usage
 
